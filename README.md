@@ -20,3 +20,7 @@
   -o  | --outfile <model_file_address(string)>	输出文件的地址 必要参数
 
    -r  | --ray_number <sphere_vertex_number(int)> 射线产生球体的层级数量 非必要参数 
+
+## 注意事项
+
+- 当原始文件中有多个buffer，导出后会变为一个buffer
