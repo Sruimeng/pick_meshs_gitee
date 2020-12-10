@@ -20,6 +20,8 @@
   -o  | --outfile <model_file_address(string)>	输出文件的地址 必要参数
 
    -r  | --ray_number <sphere_vertex_number(int)> 射线产生球体的层级数量 非必要参数 
+   
+   -p  | --pick_flag <pick_flag(int)> 是否拾取模型 非必要参数(0为不拾取，1为拾取  默认为1)
 
 ## 注意事项
 
